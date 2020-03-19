@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.6
+Created-By: 8.0.5.7 - pwa6480sr5fp7-20171216_01(SR5 FP7) (IBM Corporat
+ ion)
+Copyright-Notice: Licensed Materials - Property of IBM       5724-H72 
+          (c) Copyright IBM Corp. 2008, 2019 All Rights Reserved.     
+      US Government Users Restricted Rights -          Use,duplication
+  or disclosure restricted by GSA ADP Schedule Contract          with 
+ IBM Corp.
+Sealed: false
+Specification-Title: JavaEE Connector Architecture
+Specification-Version: 1.7
+Implementation-Title: IBM MQ Resource Adapter
+Implementation-Version: 9.1.4.0-p914-L191119
+Implementation-Vendor: IBM Corporation
+
